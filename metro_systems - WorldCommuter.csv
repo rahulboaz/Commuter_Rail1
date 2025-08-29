@@ -1,0 +1,386 @@
+City or area,City,Country,Name,Lines,Stations,Length (km),Daily ridership,Frequency
+Algiers,Algiers,Algeria,Algiers RER,4,33,126.5,91000,0.2608695652
+Buenos Aires,Buenos Aires,Argentina,Buenos Aires Metropolitan Area Rail Network,8,224,815,1400000,0.2748466258
+Córdoba,Córdoba,Argentina,Tren de las Sierras,1,17,150.8,1388,0.1127320955
+La Plata,La Plata,Argentina,University train of La Plata,1,7,4.6,7559,1.52173913
+Neuquén - Cipolletti,Neuquén,Argentina,Tren del Valle,1,5,21,400,0.2380952381
+Salta,Salta,Argentina,Servicio Regional Salta,1,8,87,570,0.09195402299
+Santiago del Estero,Santiago del Estero,Argentina,Tren al Desarrollo,1,4,8,,0.5
+Posadas - Encarnación,Posadas,Argentina,Posadas-Encarnación International Train,1,2,8,8000,0.25
+Adelaide,Adelaide,Australia,Railways in Adelaide,6,89,132,39700,0.6742424242
+South East Queensland,Brisbane,Australia,Railways in South East Queensland,12,153,689,148000,0.2220609579
+Melbourne,Melbourne,Australia,Metro Trains Melbourne1,17,221,1047,630000,0.2110792741
+Perth,Perth,Australia,Transperth,7,74,253,159600,0.2924901186
+Sydney,Sydney,Australia,Sydney Trains1,8,170,813,709000,0.209102091
+Graz,Graz,Austria,S-Bahn Steiermark,11,112,450,45520,0.2488888889
+Innsbruck,Innsbruck,Austria,Tyrol S-Bahn,6,68,271,42000,0.2509225092
+Klagenfurt,Klagenfurt,Austria,S-Bahn Kärnten,4,82,325,,0.2523076923
+Linz,Linz,Austria,S-Bahn Oberösterreich,5,62,172,,0.3604651163
+Salzburg,Salzburg,Austria,Salzburg S-Bahn,5,64,130,,0.4923076923
+Vienna,Vienna,Austria,S-Bahn Wien,10,181,475,300000,0.3810526316
+Vorarlberg,Vorarlberg,Austria,S-Bahn Vorarlberg,6,46,80,,0.575
+Baku,Baku,Azerbaijan,Baku suburban railway,2,15,91,30300,0.1648351648
+Antwerp,Antwerp,Belgium,S-trein Antwerpen,4,,,,
+Brussels,Brussels,Belgium,Brussels GEN/RER,12,120,350,68500,0.3428571429
+Charleroi,Charleroi,Belgium,Charleroi RER,4,63,,,
+Ghent,Ghent,Belgium,S-trein Gent,3,,,,
+Liège,Liège,Belgium,Liège RER,4,35,,,
+Gaborone - Lobatse,Gaborone - Lobatse,Botswana,BR Express,1,3,,,
+Crato–Juazeiro do Norte,Crato–Juazeiro do Norte,Brazil,Cariri Metro,,9,,5000,
+Fortaleza,Fortaleza,Brazil,Fortaleza Metro,2,28,43,31000,0.6511627907
+João Pessoa,João Pessoa,Brazil,Sistema de Trens Urbanos de João Pessoa,1,12,30,10000,0.4
+Maceió,Maceió,Brazil,Maceió Urban Rail,1,15,34.3,11000,0.4373177843
+Natal,Natal,Brazil,Sistema de Trens Urbanos de Natal,2,23,56,15000,0.4107142857
+Rio de Janeiro,Rio de Janeiro,Brazil,SuperVia,7,109,223.5,620000,0.4876957494
+São Paulo,São Paulo,Brazil,Companhia Paulista de Trens Metropolitanos 1,5,57,196,1500000,0.2908163265
+São Paulo,São Paulo,Brazil,ViaMobilidade,2,40,76,800000,0.5263157895
+Sobral,Sobral,Brazil,VLT de Sobral,2,12,13.9,18000,0.8633093525
+Teresina,Teresina,Brazil,Teresina Metro,1,9,13.5,8000,0.6666666667
+Montreal,Montréal,Canada,Exo commuter rail,5,61,224.6,83100,0.2715939448
+Toronto,Toronto,Canada,GO Transit,7,68,526,216000,0.1292775665
+Toronto,Toronto,Canada,Union Pearson Express,1,4,23.3,10091,0.1716738197
+Vancouver,Vancouver,Canada,West Coast Express,1,8,69,11300,0.115942029
+Valparaiso,Valparaiso,Chile,Valparaíso Metro,1,20,43,75000,0.4651162791
+Concepción,Concepción,Chile,Biotren,2,17,48,24500,0.3541666667
+Concepción,Concepción,Chile,Corto Laja,1,22,87.3,1600,0.2520045819
+Santiago - Rancagua,Santiago,Chile,Metrotren,1,18,133.8,74000,0.134529148
+Victoria,Victoria,Chile,Regional Victoria-Temuco,1,8,65,1300,0.1230769231
+Talca,Talca,Chile,Talca-Constitución Buscarril,1,11,88,136,0.125
+Beijing,Beijing,China,Beijing Suburban Railway,4,22,364.7,,0.06032355361
+Changsha,Changsha,China,Changsha–Zhuzhou–Xiangtan intercity railway,1,21,97.6,,0.2151639344
+Chengdu,Chengdu,China,Chengdu Commuter Rail,2,33,194.3,,0.1698404529
+Guiyang,Guiyang,China,Guiyang railway loop line,1,17,113,,0.1504424779
+Haikou,Haikou,China,Haikou Suburban Rail,1,7,51.4,,0.1361867704
+Lanzhou,Lanzhou,China,Lanzhou–Zhongchuan Airport intercity railway,1,6,61,,0.09836065574
+Ningbo,Ningbo,China,Ningbo Suburban Railway,1,3,48.7,,0.06160164271
+Pearl River Delta,Pearl River Delta,China,Pearl River Delta Metropolitan Region intercity railway,7,80,379.034,,0.2110628598
+Shanghai,Shanghai,China,Shanghai Suburban Railway,1,8,56.4,,0.1418439716
+Shaoxing,Shaoxing,China,Shaoxing Tourism New Transit railway,1,5,80.2,,0.06234413965
+Taizhou,Taizhou,China,Taizhou Urban Train,2,5,104.338,,0.04792117924
+San José,San José,Costa Rica,Interurbano Line,3,32,72,,0.4444444444
+Split,Split,Croatia,Split Suburban Railway,1,7,17.8,156,0.393258427
+Zagreb,Zagreb,Croatia,Zagreb Commuter Rail,1,19,47,,0.4042553191
+Havana,Havana,Cuba,Havana Suburban Railway,8,,,,
+Prague,Prague,Czech Republic,Esko Prague,33,295,933,110000,0.3161843516
+Ostrava,Ostrava,Czech Republic,Esko Moravian-Silesian Region,10,,,,
+Aalborg,Aalborg,Denmark,Aalborg Commuter Rail,1,7,27,,0.2592592593
+Copenhagen,Copenhagen,Denmark,S-train1,7,85,170,357000,0.5
+Cairo,Cairo,Egypt,Cairo Light Rail Transit,1,12,70,,0.1714285714
+Tallinn,Tallinn,Estonia,Elektriraudtee,4,37,132,,0.2803030303
+Helsinki,Helsinki,Finland,Helsinki commuter rail,14,55,236,200000,0.2330508475
+Tampere,Tampere,Finland,Tampere commuter rail,2,20,,,
+Lille,Lille,France,TER Hauts-De-France,12,363,,,
+Paris,Paris,France,Réseau Express Régional 1,5,257,602,3290000,0.426910299
+Paris,Paris,France,Transilien,15,383,1299,3520700,0.2948421863
+Toulouse,Toulouse,France,Toulouse railway network,2,10,,,
+Berlin,Berlin,Germany,Berlin S-Bahn1,15,166,335.2,1500000,0.4952267303
+Bremen,Bremen,Germany,Regio-S-Bahn Bremen/Niedersachsen,4,56,270,,0.2074074074
+Dresden,Dresden,Germany,Dresden S-Bahn,3,46,166,36000,0.2771084337
+Frankfurt/Mainz/Wiesbaden(Frankfurt Rhine-Main area),Frankfurt am Main,Germany,Rhine-Main S-Bahn,9,108,303,400000,0.3564356436
+Freiburg im Breisgau,Freiburg im Breisgau,Germany,Breisgau S-Bahn,8,,190,,
+Hamburg,Hamburg,Germany,Hamburg S-Bahn1,6,68,144,605000,0.4722222222
+Hanover,Hanover,Germany,Hanover S-Bahn,8,74,385,82191,0.1922077922
+Leipzig/Halle,Leipzig,Germany,S-Bahn Mitteldeutschland,7,104,839,90000,0.1239570918
+Magdeburg,Magdeburg,Germany,S-Bahn Mittelelbe,1,22,130,5479,0.1692307692
+Mannheim/Heidelberg/Karlsruhe,Mannheim,Germany,RheinNeckar S-Bahn,5,77,437,75000,0.176201373
+Munich,Munich,Germany,Munich S-Bahn,8,148,434,800000,0.3410138249
+Nuremberg,Nürnberg,Germany,Nuremberg S-Bahn,4,78,320,40000,0.24375
+Offenburg/Strasbourg,Offenburg/Strasbourg,Germany,Ortenau S-Bahn,4,,170,,
+Ruhr Area/Cologne/Düsseldorf,Düsseldorf,Germany,Rhein-Ruhr S-Bahn,13,124,676,356000,0.1834319527
+Villingen-Schwenningen/Tuttlingen,Villingen-Schwenningen/Tuttlingen,Germany,Ringzug,6,46,194,,0.2371134021
+Rostock,Rostock,Germany,Rostock S-Bahn,3,24,90.7,,0.2646085998
+Stuttgart,Stuttgart,Germany,Stuttgart S-Bahn,6,75,215,435000,0.3488372093
+Ulm,Ulm,Germany,Danube-Iller Regional S-Bahn,7,55,388,,0.1417525773
+Athens,Athens,Greece,Athens Suburban Railway,4,45,292,30000,0.154109589
+Thessaloniki,Thessaloniki,Greece,Proastiakos Thessaloniki,2,25,248.9,,0.1004419446
+Patras,Pátra,Greece,Proastiakos Patras,2,16,29,4400,0.5517241379
+Hong Kong,Hong Kong,Hong Kong,MTR,5,58,119.7,1877400,0.4845446951
+Budapest,Budapest,Hungary,BHÉV,5,79,101,200000,0.7821782178
+Budapest,Budapest,Hungary,Suburban trains in Budapest,14,333,,172000,
+Chennai,Chennai,India,Chennai Suburban Railway,8,300,1174.21,1500000,0.2554909258
+Lucknow - Kanpur,Lucknow,India,Lucknow-Kanpur Suburban Railway,2,16,72,80000,0.2222222222
+Delhi,Delhi,India,Delhi Suburban Railway,,,35,3700,
+Hyderabad,Hyderabad,India,Hyderabad MMTS,3,29,50,220000,0.58
+Kolkata,Kolkata,India,Kolkata Suburban Railway,24,458,1501,6100000,0.3051299134
+Pune,Pune,India,Pune Suburban Railway,2,29,64,100000,0.453125
+Mumbai,Mumbai,India,Mumbai Suburban Railway,5,140,465,7585000,0.3010752688
+Jakarta(Greater Jakarta),Jakarta,Indonesia,KRL Commuterline,5,80,418,1200000,0.1913875598
+Jakarta(Greater Jakarta),Jakarta,Indonesia,Soekarno–Hatta Airport Rail Link,1,5,54.3,4100,0.09208103131
+Jakarta(Greater Jakarta),Jakarta,Indonesia,Merak Commuter Line,1,13,68.5,,0.1897810219
+Jakarta(Greater Jakarta),Jakarta,Indonesia,Jatiluhur Express,1,8,41,,0.1951219512
+Jakarta(Greater Jakarta),Jakarta,Indonesia,Walahar,1,10,60,,0.1666666667
+Bandung(Greater Bandung),Bandung,Indonesia,Greater Bandung Commuter Line,1,22,42,,0.5238095238
+Bandung(Greater Bandung),Bandung,Indonesia,KCJB Feeder Train,1,3,,,
+Bandung(Greater Bandung),Bandung,Indonesia,Garut Commuter Line,1,29,,,
+Semarang(Greater Semarang),Semarang,Indonesia,Kedungsepur,1,8,60,,0.1333333333
+Surabaya(Greater Surabaya),Surabaya,Indonesia,Greater Surabaya Commuter Line,7,,,,
+Medan(Greater Medan),Medan,Indonesia,Sri Lelawangsa,1,2,21,,0.09523809524
+Medan(Greater Medan),Medan,Indonesia,Kualanamu Airport Rail Link,1,2,40,,0.05
+Padang(Greater Padang),Padang,Indonesia,Minangkabau Express,1,8,23,,0.347826087
+Yogyakarta–Surakarta,Yogyakarta,Indonesia,Adisumarmo Airport Rail Link,1,5,13.5,,0.3703703704
+Yogyakarta–Surakarta,Yogyakarta,Indonesia,Prambanan Express,1,5,64,,0.078125
+Yogyakarta–Surakarta,Yogyakarta,Indonesia,Yogyakarta International Airport Rail Link,1,4,,,
+Yogyakarta–Surakarta,Yogyakarta,Indonesia,KRL Commuterline Yogyakarta–Solo,1,13,65.4,29744,0.1987767584
+Tehran,Tehran,Iran,Tehran Metro Line 5,1,11,41.5,,0.265060241
+Dublin(Greater Dublin Area),Dublin,Ireland,Dublin Area Rapid Transit,2,32,53,81905,0.6037735849
+Dublin(Greater Dublin Area),Dublin,Ireland,Dublin Suburban Rail,5,77,,40000,
+Cork,Cork,Ireland,Cork Suburban Rail,3,10,,5975,
+Galway,Galway,Ireland,Galway Suburban Rail,1,3,,,
+Limerick,Limerick,Ireland,Limerick Suburban Rail,3,7,,,
+"Tel Aviv, Haifa,
+Jerusalem, Beersheba",Tel Aviv,Israel,Israel Railways,11,69,1221,225000,0.05651105651
+Bari,Bari,Italy,Bari metropolitan railway service,2,13,,,
+Bologna,Bologna,Italy,Bologna metropolitan railway service,8,82,350,82076,0.2342857143
+Milan,Milan,Italy,Milan suburban railway service,11,123,403,230000,0.3052109181
+Naples,Naples,Italy,Line 2,1,12,,,
+Naples,Naples,Italy,Circumvesuviana,6,96,142,,0.676056338
+Naples,Naples,Italy,Circumflegrea railway,1,16,27,,0.5925925926
+Naples,Naples,Italy,Cumana railway,1,16,20,,0.8
+Naples,Naples,Italy,Naples–Aversa railway,1,5,10,,0.5
+Palermo,Palermo,Italy,Palermo metropolitan railway service,2,17,39,,0.4358974359
+Rome,Rome,Italy,FL lines,8,128,672,372000,0.1904761905
+Rome,Rome,Italy,Rome–Lido railway,,14,28,90000,0.5
+Turin,Turin,Italy,Turin metropolitan railway service,7,85,,,
+Salerno,Salerno,Italy,Salerno metropolitan railway service,1,6,6,,1
+Fukuoka-Kitakyushu,Fukuoka,Japan,JR Kyushu,11,175,464.3,,0.3769114796
+Fukuoka-Kitakyushu,Kitakyushu,Japan,Nishi-Nippon Railroad,4,72,106.1,542994,0.6786050895
+Fukuoka-Kitakyushu,Fukuoka,Japan,Amagi Railway,1,11,13.7,3700,0.802919708
+Fukuoka-Kitakyushu,Kitakyushu,Japan,Heisei Chikuhō Railway,3,35,49.2,,0.7113821138
+Hiroshima,Hiroshima,Japan,JR West,4,76,247.8,,0.3066989508
+Kanazawa,Kanazawa,Japan,IR Ishikawa Railway,1,5,17.8,,0.2808988764
+Kanazawa,Kanazawa,Japan,Hokuriku Railroad,2,29,20.6,,1.40776699
+Matsuyama,Matsuyama,Japan,Iyotetsu,3,35,33.9,,1.032448378
+Nagano,Nagano,Japan,Nagano Electric Railway,1,24,33.2,,0.7228915663
+Nagoya(Chūkyō Area),Nagoya,Japan,JR Central,10,138,465.2,,0.2966466036
+Nagoya(Chūkyō Area),Nagoya,Japan,Aichi Loop Line,1,23,45.3,38759,0.5077262693
+Nagoya(Chūkyō Area),Nagoya,Japan,Johoku Line,1,6,11.2,1384,0.5357142857
+Nagoya(Chūkyō Area),Nagoya,Japan,Kinki Nippon Electric Railway,21,304,395.8,,0.7680646791
+Nagoya(Chūkyō Area),Nagoya,Japan,Nagoya Railroad,20,275,443.8,,0.6196484903
+Nagoya(Chūkyō Area),Nagoya,Japan,Nagoya Seaside Rapid Railway,1,11,15.2,43888,0.7236842105
+Nagoya(Chūkyō Area),Nagoya,Japan,Sangi Railway,2,29,48,,0.6041666667
+Nagoya(Chūkyō Area),Nagoya,Japan,Toyohashi Railroad,1,16,18,,0.8888888889
+Niigata,Niigata,Japan,JR East,6,58,177.9,,0.3260258572
+Okayama-Kurashiki,Okayama-Kurashiki,Japan,JR West,8,117,417.5,,0.280239521
+Okayama-Kurashiki,Okayama-Kurashiki,Japan,Mizushima Rinkai Railway,1,10,11.2,,0.8928571429
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,JR West Urban Network,25,361,985.7,,0.3662371918
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Hankyu Railway,9,91,136,1950000,0.6691176471
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Hanshin Electric Railway,3,46,43.9,,1.047835991
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Hokushin Kyuko Electric Railway,1,2,7.5,,0.2666666667
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Keihan Electric Railway,7,88,90.7,,0.9702315325
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Kinki Nippon Electric Railway,21,304,495.8,,0.6131504639
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Kita-Osaka Kyuko Railway,1,4,5.9,,0.6779661017
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Kobe Electric Railway,4,46,69.2,160900,0.6647398844
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Kobe Rapid Railway,2,11,7.6,,1.447368421
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Nankai Electric Railway,8,99,157.9,586866,0.6269791007
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Nose Electric Railway,2,15,14.8,,1.013513514
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Semboku Rapid Railway,1,6,14.3,135450,0.4195804196
+"Osaka-Kobe-Kyoto
+(Keihanshin Area)","Osaka-Kobe-Kyoto
+(Keihanshin Area)",Japan,Sanyo Electric Railway,2,49,63.2,,0.7753164557
+Sapporo,Sapporo,Japan,JR Hokkaido,3,55,168.7,,0.3260225252
+Sendai,Sendai,Japan,JR East,5,86,252,,0.3412698413
+Sendai,Sendai,Japan,Sendai Airport Transit,1,4,7.1,6670,0.5633802817
+Shizuoka-Hamamatsu,Shizuoka-Hamamatsu,Japan,JR Central,3,70,268.4,,0.260804769
+Takamatsu,Takamatsu,Japan,Takamatsu-Kotohira Electric Railroad,3,52,60,,0.8666666667
+Tokyo(Greater Tokyo Area),Tokyo,Japan,JR East,43,623,2282.8,16359962,0.2729104608
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Hakone Tozan Line,1,11,15,,0.7333333333
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Hokuso Railway,1,15,32.3,108680,0.4643962848
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Izuhakone Railway,1,12,9.6,,1.25
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Kanto Railway,2,28,55.6,,0.5035971223
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Keihin Electric Express Railway,5,77,87,1316499,0.8850574713
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Keio Corporation,6,69,88.3,1851364,0.7814269536
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Keisei Electric Railway,6,69,152.8,786063,0.4515706806
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Metropolitan Intercity Railway Company,1,20,58.3,431060,0.3430531732
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Nagareyama Line,1,6,5.7,,1.052631579
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Odakyu Electric Railway,3,80,120.5,2069383,0.6639004149
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Sagami Railway,2,28,35.9,634899,0.7799442897
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Saitama Railway,1,8,14.6,,0.5479452055
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Seibu Railway,12,92,176.6,1804521,0.5209513024
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Shin-Keisei Electric Railway,1,24,26.5,276495,0.9056603774
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Tobu Railway,13,204,463.3,2522067,0.4403194474
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Tokyu Corporation,6,86,94.5,3171660,0.9100529101
+Tokyo(Greater Tokyo Area),Tokyo,Japan,Toyo Rapid Railway,1,9,16.2,133000,0.5555555556
+Toyama,Toyama,Japan,Toyama Chihō Railway,3,66,93.2,,0.7081545064
+Almaty,Almaty,Kazakhstan,Elektrichka,,,,,#DIV/0!
+Nairobi,Nairobi,Kenya,Nairobi rail service,4,23,160,9400,0.14375
+Seoul Capital Area,Seoul,South Korea,Korail,8,260,591.4,3197423,0.439634765
+Seoul Capital Area,Seoul,South Korea,A'REX,1,14,63.8,182343,0.2194357367
+Busan,Busan,South Korea,Korail,1,15,28,51097,0.5357142857
+Riga,Riga,Latvia,Pasažieru vilciens,,,,,
+Kaunas,Kaunas,Lithuania,Elektrichka,,,,,
+Vilnius,Vilnius,Lithuania,Elektrichka,,,,,
+Greater Kuala Lumpur,Kuala Lumpur,Malaysia,KTM Komuter,3,56,269,120389,0.2081784387
+Greater Kuala Lumpur,Kuala Lumpur,Malaysia,Express Rail Link,2,5,57,17634,0.08771929825
+Greater Kota Kinabalu,Kota Kinabalu,Malaysia,Western Sabah Railway Line,1,15,134,,0.1119402985
+Greater Penang,Greater Penang,Malaysia,KTM Komuter Northern Sector,2,20,272,,0.07352941176
+Mexico City,Mexico City,Mexico,Tren Suburbano,1,7,27,218000,0.2592592593
+Mexico City-Toluca,Mexico City-Toluca,Mexico,El Insurgente,1,4,57.7,,0.06932409012
+Casablanca,Casablanca,Morocco,Al Bidaoui,2,11,32,,0.34375
+Yangon,Yangon,Myanmar,Yangon Circular Railway,1,39,45.9,125000,0.8496732026
+Auckland,Auckland,New Zealand,AT Metro,4,40,95,74000,0.4210526316
+Auckland-Hamilton,Auckland-Hamilton,New Zealand,Te Huia,1,6,138.37,,0.04336200043
+Wellington,Wellington,New Zealand,Metlink,5,48,154,30000,0.3116883117
+Wellington,Wellington,New Zealand,Capital Connection,1,5,136,,0.03676470588
+Bergen,Bergen,Norway,Bergen Commuter Rail /Vy Gjøvikbanen,2,28,135,,0.2074074074
+Oslo,Oslo,Norway,Oslo Commuter Rail,2,48,92,,0.5217391304
+Stavanger,Stavanger,Norway,Jæren Commuter Rail,1,18,75,7000,0.24
+Trondheim,Trondheim,Norway,Trønderbanen,2,35,290,3300,0.1206896552
+Manila,Manila,Philippines,Philippine National Railways Metro Commuter Line,1,32,75.7,100000,0.4227212682
+"Naga, Legazpi","Naga, Legazpi",Philippines,Philippine National Railways Bicol Commuter,1,,,,
+"Bydgoszcz, Toruń","Bydgoszcz, Toruń",Poland,Szybka kolej miejska BiTCity,1,13,,,
+Kraków,Kraków,Poland,Koleje Małopolskie,1,9,14,,0.6428571429
+Kraków,Kraków,Poland,Szybka Kolej Aglomeracyjna w Aglomeracji Krakowskiej,3,,,,
+Łódź,Łódź,Poland,Łódzka Kolej Aglomeracyjna,4,61,,,
+Poznań,Poznań,Poland,Poznańska Kolej Metropolitalna,5,,,,
+Silesia,Silesia,Poland,Szybka Kolej Regionalna,1,13,29,,0.4482758621
+Tricity Area,Tricity Area,Poland,Szybka Kolej Miejska w Trójmieście,1,27,,,
+Tricity Area,Tricity Area,Poland,Pomorska Kolej Metropolitalna,1,11,19.5,,0.5641025641
+Warsaw,Warsaw,Poland,Koleje Mazowieckie,8,,1266,170151,
+Warsaw,Warsaw,Poland,Szybka Kolej Miejska,5,46,,77000,
+Warsaw,Warsaw,Poland,Warszawska Kolej Dojazdowa,1,28,,23500,
+Wrocław,Wrocław,Poland,Lower Silesian Agglomeration Railway,1,23,,,
+Coimbra,Coimbra,Portugal,CP Urban Services,1,20,,,
+Lisbon,Lisbon,Portugal,CP Urban Services,4,67,,,
+Lisbon,Lisbon,Portugal,Fertagus,1,14,54,,0.2592592593
+Porto,Porto,Portugal,CP Urban Services,4,78,,,
+Bucharest,Bucharest,Romania,CFR Săgeata Albastră,1,4,20,2750,0.2
+Moscow,Moscow,Russia,Moscow Suburban Railway,13,749,2384.7,2739726,0.3140856292
+Moscow,Moscow,Russia,Moscow Central Diameters,2,66,132,,0.5
+Moscow,Moscow,Russia,Aeroexpress,3,9,,,
+Yekaterinburg,Yekaterinburg,Russia,Yekaterinburg City Rail,2,14,70,,0.2
+Nizhny Novgorod,Nizhny Novgorod,Russia,Nizhny Novgorod City Rail,3,27,71.2,,0.3792134831
+Dakar,Dakar,Senegal,Train Express Regional,1,14,55,50000,0.2545454545
+Dakar-Thiès,Dakar-Thiès,Senegal,Petit train de banlieue,1,,,,
+Belgrade,Belgrade,Serbia,BG Voz,2,21,31.3,35000,0.6709265176
+Cape Town,Cape Town,South Africa,Metrorail Western Cape,4,122,423,500000,0.2884160757
+Durban,Durban,South Africa,Metrorail KwaZulu-Natal,8,99,,,
+East London,East London,South Africa,Metrorail Eastern Cape,1,18,,,
+Johannesburg/Pretoria,Johannesburg/Pretoria,South Africa,Metrorail Gauteng,12,,,,
+Johannesburg/Pretoria,Johannesburg/Pretoria,South Africa,Gautrain,2,10,80,,0.125
+Port Elizabeth,Port Elizabeth,South Africa,Metrorail Eastern Cape,1,10,,,
+Alicante/Murcia,Alicante/Murcia,Spain,Cercanías Murcia/Alicante,3,26,202,,0.1287128713
+Barcelona,Barcelona,Spain,Rodalies Barcelona,19,228,615,350000,0.3707317073
+Bilbao,Bilbao,Spain,Cercanías Bilbao,3,44,67,,0.6567164179
+Bilbao,Bilbao,Spain,Euskotren Trena,8,79,,,
+Cádiz/Jerez de la Frontera,Cádiz/Jerez de la Frontera,Spain,Cercanías Cádiz,2,13,61,,0.2131147541
+Madrid,Madrid,Spain,Cercanías Madrid,10,90,370,880000,0.2432432432
+Málaga,Málaga,Spain,Cercanías Málaga,2,26,70,,0.3714285714
+Palma de Mallorca,Palma de Mallorca,Spain,Serveis Ferroviaris de Mallorca,3,29,85,,0.3411764706
+Oviedo/Gijón,Oviedo/Gijón,Spain,Cercanías Asturias,9,,,,
+Santander,Santander,Spain,Cercanías Cantabria,1,27,92,,0.2934782609
+San Sebastián,San Sebastián,Spain,Cercanías San Sebastián,1,30,80.5,,0.3726708075
+Seville,Seville,Spain,Cercanías Sevilla,5,37,251,25000,0.1474103586
+Valencia,Valencia,Spain,Cercanías Valencia,6,66,252,43500,0.2619047619
+Zaragoza,Zaragoza,Spain,Cercanías Zaragoza,1,6,16.6,,0.3614457831
+Gothenburg,Gothenburg,Sweden,Gothenburg commuter rail,3,25,104,60000,0.2403846154
+Linköping/Norrköping,Linköping,Sweden,Östergötland commuter rail,1,11,115,9000,0.09565217391
+Scania,Malmö,Sweden,Pågatågen,5,51,388,50000,0.131443299
+Stockholm,Stockholm,Sweden,Stockholm commuter rail,4,53,241,410000,0.2199170124
+Stockholm,Stockholm,Sweden,Roslagsbanan and Saltsjöbanan,5,56,83,70000,0.6746987952
+Aargau,Aargau,Switzerland,Aargau S-Bahn,6,78,,,
+"Basel
+(Trinational Eurodistrict of Basel)",Basel,Switzerland,Basel S-Bahn,5,72,250,65000,0.288
+Bern,Bern,Switzerland,Bern S-Bahn,13,134,,175000,
+Chur,Chur,Switzerland,Chur S-Bahn,2,22,53,,0.4150943396
+Fribourg,Fribourg,Switzerland,RER Fribourg,7,,,,
+Geneva(Grand Genève),Geneva(Grand Genève),Switzerland,Léman Express,6,45,230,,0.1956521739
+Lausanne,Lausanne,Switzerland,RER Vaud,10,75,,,
+Lucerne,Lucerne,Switzerland,Lucerne S-Bahn,9,,,,
+Schaffhausen,Schaffhausen,Switzerland,Schaffhausen S-Bahn,3,16,,,
+St. Gallen,St. Gallen,Switzerland,St. Gallen S-Bahn,23,188,,,
+"Zurich
+(Zurich Metropolitan Area)",Zürich,Switzerland,Zürich S-Bahn,28,171,380,456073,0.45
+Zug,Zug,Switzerland,Zug Stadtbahn,2,,,,
+Greater Taipei-Taoyuan-Hsinchu,Greater Taipei-Taoyuan-Hsinchu,Taiwan,Taiwan Railway Administration,4,,,,
+Taichung,Taichung,Taiwan,Taiwan Railway Administration,2,,,,
+Tainan-Kaohsiung,Tainan-Kaohsiung,Taiwan,Taiwan Railway Administration,1,,,,
+Dar es Salaam,Dar es Salaam,Tanzania,Dar es Salaam commuter rail,2,23,45,16000,0.5111111111
+Bangkok(Bangkok Metropolitan Region),Bangkok,Thailand,Greater Bangkok Commuter rail,5,21,623,,0.03370786517
+Bangkok(Bangkok Metropolitan Region),Bangkok,Thailand,SRT Red Lines,2,11,139.3,,0.07896625987
+Bangkok(Bangkok Metropolitan Region),Bangkok,Thailand,Airport Rail Link,1,7,28.6,47000,0.2447552448
+Tunis,Tunis,Tunisia,TGM,1,18,19,,0.9473684211
+Tunis,Tunis,Tunisia,SNCFT,1,,23.2,,
+Tunis,Tunis,Tunisia,Réseau Ferroviaire Rapide,2,14,17.9,,0.782122905
+Sahel,Sahel,Tunisia,Sahel Metro,1,29,73,,0.397260274
+Ankara,Ankara,Turkey,Başkentray,1,26,37,,0.7027027027
+Istanbul,Istanbul,Turkey,Marmaray,1,43,76.6,148034,0.5613577023
+İzmir,İzmir,Turkey,İZBAN,2,41,136,185000,0.3014705882
+Gaziantep,Gaziantep,Turkey,Gaziray,1,16,25.5,,0.6274509804
+Kyiv,Kyiv,Ukraine,Kyiv Urban Electric Train,1,15,50,32000,0.3
+Belfast,Belfast,United Kingdom,Belfast Suburban Rail,4,44,,,
+Birmingham,Birmingham,United Kingdom,"Chase Line, Cross City Line, Snow Hill Lines, Transport for West Midlands (West 
+Midlands Trains)",9,146,867.4,,0.1683191146
+Bristol,Bristol,United Kingdom,MetroWest,,,,,
+Cardiff,Cardiff,United Kingdom,Valley Lines,,81,,,
+Edinburgh,Edinburgh,United Kingdom,ScotRail,,,,,
+Exeter,Exeter,United Kingdom,Devon Metro,,,,,
+Glasgow,Glasgow,United Kingdom,"Argyle Line, Croy Line, Maryhill Line, Cumbernauld Line, North Clyde Line, Cathcart 
+Circle Line, Glasgow South Western Line, Paisley Canal Line, Inverclyde Line",,341,3032,,0.1124670185
+Greater Manchester,Greater Manchester,United Kingdom,Northern Trains,,98,229,,0.4279475983
+Liverpool,Liverpool,United Kingdom,Merseyrail,2,68,120.7,110000,0.5633802817
+Leeds,Leeds,United Kingdom,MetroTrain,,,,,
+Greater London1,London,United Kingdom,c2c,3,28,128.7,,0.2175602176
+Greater London2,London,United Kingdom,Chiltern Railways,,62,336.4,,0.1843043995
+Greater London3,London,United Kingdom,Great Western Railway,,270,2129.2,,0.1268081909
+Greater London4,London,United Kingdom,Great Northern,,,,,
+Greater London5,London,United Kingdom,Thameslink,,129,778.9,,0.1656181795
+Greater London6,London,United Kingdom,Abellio Greater Anglia,,168,,,
+Greater London7,London,United Kingdom,London Overground,9,112,167,517808,0.6706586826
+Greater London8,London,United Kingdom,Southern,12,67,,,
+Greater London9,London,United Kingdom,South Western Railway,14,90,,,
+Greater London10,London,United Kingdom,Southeastern,15,74,,,
+Greater London11,London,United Kingdom,Elizabeth line,4,23,59,,0.3898305085
+Albuquerque,Albuquerque,United States,New Mexico Rail Runner Express,1,11,156,3900,0.07051282051
+Austin,Austin,United States,Capital MetroRail,1,9,51,1600,0.1764705882
+Boston,Boston,United States,MBTA Commuter Rail,12,141,641,129400,0.2199687988
+Chicago,Chicago,United States,Metra,11,243,785,296600,0.3095541401
+Chicago,Chicago,United States,South Shore Line,1,19,140,11500,0.1357142857
+Dallas–Fort Worth,Dallas,United States,Trinity Railway Express,1,10,54.7,8300,0.1828153565
+Dallas–Fort Worth,Fort Worth,United States,A-train,1,6,33.8,1500,0.1775147929
+Dallas–Fort Worth,Dallas,United States,TEXRail,1,9,43.8,1301,0.2054794521
+Denver,Denver,United States,RTD Commuter Rail,4,21,85.29,28700,0.246218783
+Los Angeles,Los Angeles,United States,Metrolink,7,62,859,42265,0.07217694994
+Miami - West Palm Beach,Miami,United States,Tri-Rail,1,18,114.1,13700,0.1577563541
+Minneapolis,Minneapolis,United States,Northstar Commuter Rail,1,6,64,2100,0.09375
+Nashville,Nashville,United States,WeGo Star,1,6,51.5,1000,0.1165048544
+New Haven-Hartford,New Haven,United States,CTrail,2,22,194.5,3431,0.1131105398
+New York metropolitan area,New York City,United States,Long Island Rail Road,11,124,1100,385000,0.1127272727
+New York metropolitan area,New York City,United States,Metro-North Railroad,6,124,1267,300000,0.09786898185
+New York metropolitan area,New York City,United States,NJ Transit,11,160,1530,301746,0.1045751634
+Orlando,Orlando,United States,SunRail,1,16,78.7,4300,0.2033036849
+Philadelphia,Philadelphia,United States,SEPTA Regional Rail,13,153,450,125300,0.34
+Portland,Portland,United States,Westside Express Service,1,5,23.7,1400,0.2109704641
+Salt Lake City,Salt Lake City,United States,FrontRunner,1,16,142,13000,0.1126760563
+San Diego,San Diego,United States,Coaster,1,8,66,4800,0.1212121212
+San Francisco Bay Area,San Francisco,United States,Caltrain,1,32,124.6,58250,0.2568218299
+San Francisco Bay Area,San Francisco,United States,Altamont Corridor Express,1,10,138,2800,0.07246376812
+San Francisco Bay Area,San Francisco,United States,Sonoma–Marin Area Rail Transit,1,12,45,2206,0.2666666667
+Seattle,Seattle,United States,Sounder commuter rail,2,9,132,17057,0.06818181818
+Washington,Washington,United States,MARC,3,43,301,31300,0.1428571429
+Washington,Washington,United States,Virginia Railway Express,2,18,145,19000,0.124137931
+Montevideo,Montevideo,Uruguay,State Railways Administration of Uruguay,1,5,80,1200,0.0625
+Caracas,Caracas,Venezuela,Sistema Ferroviario Central,1,4,41.4,140000,0.09661835749
